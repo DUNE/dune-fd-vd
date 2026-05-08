@@ -1,4 +1,4 @@
-# dune-fdvd
+# dune-fd-vd
 Vertical-drift Far Detector code for DUNE's Phlex-based software stack
 
 ## Copyright and Licensing
